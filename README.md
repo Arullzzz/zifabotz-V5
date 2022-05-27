@@ -90,7 +90,7 @@ Buka halaman HEROKU => https://heroku.com
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
 ```ts 
-OwnerNumber = ['wa.me/6285828764046']
+OwnerNumber = ['wa.me/6285822347348']
 
 Thumbnail
 global.image = 'https://telegra.ph/file/4f4a5a3cde6a98a96da79.jpg'//change the image
@@ -132,17 +132,13 @@ Heroku Buildpack
  [`BOTCAHX`](https://wa.me/6282221792667)
 
  [`ZIFABOTZ`](https://wa.me/6285828764046)
-
+ 
+ ['ArullBotz'](https://wa.me/6283843192208)
 ## Whatsapp
 
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv)
-[![Rozi](https://img.shields.io/badge/WhatsApp%20Rozi-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285828764046/)
-[![Owner Zifabotz](https://img.shields.io/badge/WhatsApp%20Ownerzifabotz-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285828764046/)
 
-[![BOTCAHX](https://github.com/BOTCAX.png?size=100)](https://github.com/BOTCAHX) | [![ALYA](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![ZIFABOTZ](https://github.com/Botynyakamu.png?size=100)](https://github.com/botynyakamu)
-----|----|----
-[BOTCAHX](https://github.com/BOTCAX) | [ALYA](https://github.com/AlyaaXd) | [ZIFABOTZ](https://github.com/Botynyakamu)| [Luc](https://github.com/siegrin)
- Penulis / Pencipta | Penulis / pencipta | recode | membantu
+
+
 
 ------
  
@@ -154,7 +150,7 @@ Heroku Buildpack
 
 ### Repo Stats 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=zifabotz-V5&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Arullzzz&repo=zifabotz-V5&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=Rzy.botz-M1&theme=dark)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
